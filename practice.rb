@@ -3,3 +3,4 @@
 # Add and commit some comments (not code!) and see how resetting works at different stages
 # #comment 1,
 # comment 2
+# comment 3 on squash branch
